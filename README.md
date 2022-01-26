@@ -15,7 +15,7 @@
 
 <p> The starter code for this project was provided by:
 
-MIT xPRO, Copyright (c) 2020 John Williams. MIT License
+MIT xPRO, Copyright (c) 2020 John Williams
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
