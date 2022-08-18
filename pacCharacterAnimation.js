@@ -1,9 +1,9 @@
 var pos = 0;
 const pacArray = [
-    'PacMan.png', //from MIT xPrp source code
-    'blueGhost.png', //from http://www.pngwing.com
-    'redGhost.png', //from http://www.stickpng.com 
-    'yellowGhost.png' //from http://www.stickpng.com
+    'images/PacMan.png', //from MIT xPrp source code
+    'images/blueGhost.png', //from http://www.pngwing.com
+    'images/redGhost.png', //from http://www.stickpng.com 
+    'images/yellowGhost.png' //from http://www.stickpng.com
 ];
 var direction = 0;
 const pacCharacters = []; // This array holds all the characters
